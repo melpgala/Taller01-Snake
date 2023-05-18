@@ -1,5 +1,6 @@
 # Aqui se encuentran las capturas
-Faltan capturas
+#Integrante 1
+https://github.com/melpgala/Taller01-Snake/blob/main/imagenes/integrante_1.jpeg
 
 #Integrante 2
 
