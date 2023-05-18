@@ -1,4 +1,4 @@
-#Aqui se encuentran las capturas
+# Aqui se encuentran las capturas
 Faltan capturas
 
 Imagen del conflicto integrante 3:
