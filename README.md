@@ -1,3 +1,3 @@
-#Aqui se encuentran las capturas
+# Aqui se encuentran las capturas
 Faltan capturas
 
